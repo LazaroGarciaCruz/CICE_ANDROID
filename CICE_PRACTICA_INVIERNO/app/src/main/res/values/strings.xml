@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="textoBotonSiguiente">SIGUIENTE</string>
+    <string name="textoBotonAnterior">ANTERIOR</string>
+    <string name="textoBotonCalcular">CALCULAR</string>
+    <string name="textoMensajeAltura">Introduzca su altura, por favor:</string>
+    <string name="textoMensajePeso">Introduzca su peso, por favor:</string>
+    <string name="textoMensajeResultado1">¡Este es tu IMC!</string>
+    <string name="textoMensajeResultado2">Según su rango estas...</string>
+    <string name="textoRango1">IMC &lt; 16 = Desnutrido</string>
+    <string name="textoRango2">16 &lt; IMC &lt; 18 = Bajo peso</string>
+    <string name="textoRango3">18 &lt; IMC &lt; 25 = Normal</string>
+    <string name="textoRango4">25 &lt; IMC &lt; 31 = Sobrepeso</string>
+    <string name="textoRango5">IMC &gt; 31 = Obesidad</string>
+    <string name="textoEstado1">DESNUTRIDO</string>
+    <string name="textoEstado2">BAJO DE PESO</string>
+    <string name="textoEstado3">NORMAL</string>
+    <string name="textoEstado4">CON SOBREPESO</string>
+    <string name="textoEstado5">OBESO</string>
+    <string name="textoError">Los datos introducidos no son correctos</string>
+</resources>

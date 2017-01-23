@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="textoBotonSiguiente">NEXT</string>
+    <string name="textoBotonAnterior">PREVIOUS</string>
+    <string name="textoBotonCalcular">CALCULATE</string>
+    <string name="textoMensajeAltura">Set your height, please:</string>
+    <string name="textoMensajePeso">Set yout weight, please:</string>
+    <string name="textoMensajeResultado1">This is your IMC!</string>
+    <string name="textoMensajeResultado2">According to the range you are...</string>
+    <string name="textoRango1">IMC &lt; 16 = Undernourished</string>
+    <string name="textoRango2">16 &lt; IMC &lt; 18 = Low weight</string>
+    <string name="textoRango3">18 &lt; IMC &lt; 25 = Normal</string>
+    <string name="textoRango4">25 &lt; IMC &lt; 31 = Overweight</string>
+    <string name="textoRango5">IMC &gt; 31 = Obesity</string>
+    <string name="textoEstado1">UNDERMOURISHED</string>
+    <string name="textoEstado2">LOW WEIGHT</string>
+    <string name="textoEstado3">NORMAL</string>
+    <string name="textoEstado4">OVERWEIGHT</string>
+    <string name="textoEstado5">OBESE</string>
+    <string name="textoError">The given data are not correct</string>
+</resources>
